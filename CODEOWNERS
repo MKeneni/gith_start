@@ -1,1 +1,3 @@
-#When somene open a pull request that only modifies ....@
+#When somene open a pull request that only modifies ....
+*.html@kevin 
+* .ccs@Alex
